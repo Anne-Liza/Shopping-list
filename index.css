@@ -1,0 +1,10 @@
+body{
+    background-color: tan;
+    
+}
+.list {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0;
+    background-color: rgb(118, 133, 147);
+  }
